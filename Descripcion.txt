@@ -12,5 +12,12 @@ La empresa Spuderman se caracteriza por brindar los mejores servicios de Gestion
 La empresa Spuderman se caracteriza por brindar los mejores servicios de Registro de ventas 
 
 La empresa Spuderman ofrece un excelente servicio de catalogo animal para libros de ciencias naturales destinados a escuelas de nivel basico
+mamiferos tierra
+mamiferos agua
+reptiles tierra 
+reptiles agua
+aves tierra
+aves aire 
+anfibios agua 
 
 La empresa Spuderman brinda un amplio catalogo motomotris 
